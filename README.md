@@ -8,18 +8,6 @@
 [![CKEditor](https://img.shields.io/badge/CKEditor-4.x-0287D0?style=for-the-badge&logo=ckeditor&logoColor=white)](https://ckeditor.com/)
 [![Font Awesome](https://img.shields.io/badge/Font_Awesome-4.7.0-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)](https://fontawesome.com/)
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [User Roles](#user-roles)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 Overview
 
